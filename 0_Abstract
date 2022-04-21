@@ -1,3 +1,7 @@
+
+                                              *ABSTRACT*
+
+
 The water level in an overhead tank or any other water container is detected and monitored using a water level monitoring system.
 In this project, I designed a water level sensor device that can detect the amount of water in a water storage system using an Atmega 328p.
 Ultrasonic waves are generated using an ultrasonic sensor.
