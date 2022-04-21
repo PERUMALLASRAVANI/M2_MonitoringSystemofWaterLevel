@@ -47,8 +47,8 @@ As a result, we must continually manage the Water level.
  ### HOW?
       Basically, in this project sensor plays a major role.It detects the signal and transmits the output of the following code.
  ### WHY?
-     it is critical for everyone to understand the importance of water conservation, so gadgets like ours will serve as a first step towards
-     saving water and power in every household.
+     it is critical for everyone to understand the importance of water conservation, so gadgets like ours will serve as 
+     a first step towards saving water and power in every household.
  ### WHO?
      Because it's an automatic detector, there's no need for any manual intervention to return it to its original state,
      allowing anyone who needs it to utilise it.
