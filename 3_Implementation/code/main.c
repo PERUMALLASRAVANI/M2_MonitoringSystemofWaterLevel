@@ -1,10 +1,3 @@
-#include <avr/io.h>
-#include <water_level_indication.h>
-#include <util/delay.h>
-#include "uart.h"
-#include <HCSR04.h>
-#include <NXTBluetooth.h>
-
 #define ULTRASONIC_TRIG_PIN 12
 #define ULTRASONIC_ECHO_PIN 13
 HCSR04 ultrasonic(ULTRASONIC_TRIG_PIN,ULTRASONIC_ECHO_PIN);
