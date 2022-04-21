@@ -66,7 +66,22 @@ As a result, we must continually manage the Water level.
   # SIMULATION 
   ![■ SimulIDE-1 0 0-RC2 R1007 - backup sim1_ 20-04-2022 22_04_02](https://user-images.githubusercontent.com/101012637/164506301-06a27437-73cc-4689-a0bf-8e8a0d4d3918.png)
   
-  
+# LOW LEVEL REQUIREMENTS
+
+<html>
+<body>
+<!--StartFragment-->
+
+S.no | LLR | Description | Status
+-- | -- | -- | --
+1 | LLR1 | Simulation | Pass
+2 | LLR2 | Compiler | Pass
+3 | LLR3 | Diode | Pass
+
+<!--EndFragment-->
+</body>
+</html>
+
  
 
 
