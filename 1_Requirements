@@ -1,4 +1,4 @@
-   # **MONITORING SYSTEM OF WATER LEVEL**
+                                               # **MONITORING SYSTEM OF WATER LEVEL**
    
    ## **INTRODUCTION**
    
@@ -12,7 +12,26 @@
    Detects the amount of water in the tank and manipulates the motor state in relation to the level, while also informing the user through Bluetooth module.
    Affordable and smaller sizes are available.Easy to understand and simple circuit design.
    
-   ## **SWOT Analysis**
+                                                   ## **SWOT Analysis**
    
    
+  #Strength - It has a small size yet great strength.The actual Water Level is displayed accurately.Motor control that is fully automated.It's inexpensive.
+   
+  #Weakness - We must be very careful in establishing a Water-resistant environment since electrical components are used in a Water Reserve.
+   
+  #Opportunity -   We should create a chance for everyone to utilise our product by raising knowledge about the waste of water and electricity caused by insufficient 
+                  user attention, as well as the significance of closely monitoring the motor for maximum safety.Due to the current water scarcity scenario, 
+                  it is now required all over the world.
+   
+   
+ #Threat -  In the Water level Indication market, there are now numerous new developing gadgets for competitiveness.
+ 
+ 
+                                                      # **4W'S**
      
+#WHAT? - It is a project that detects the water level in the tank and notifies the user of the level and motor state.
+#WHY?  - It is a good habit to maintain our daily water usage normal, and it is also critical for everyone to understand the importance of water conservation, 
+         so gadgets like ours will serve as a first step toward saving water and power in every household.
+#WHERE? -  It can be used in all types of households, offices, and water-related industries.      
+#WHO? -    Because it is an automatic detector, there is no need for any manual intervention to return it to its original setting, 
+           allowing anyone who need it to utilise it.      
