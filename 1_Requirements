@@ -1,0 +1,18 @@
+   # **MONITORING SYSTEM OF WATER LEVEL**
+   
+   ## **INTRODUCTION**
+   
+   Water is essential in our daily lives. One of the most crucial parameters for any household is the availability of water in the tank.
+   Device must turn on the motor if the water level in the tank is too low. If the level rises too high, the Device must shut down the motor.
+   Because water is so important, if the level is abnormal, it causes everyday household chores to be disrupted.
+   As a result, we must continually manage the Water level.
+   
+   ## **FEATURES**
+   
+   Detects the amount of water in the tank and manipulates the motor state in relation to the level, while also informing the user through Bluetooth module.
+   Affordable and smaller sizes are available.Easy to understand and simple circuit design.
+   
+   ## **SWOT Analysis**
+   
+   
+     
