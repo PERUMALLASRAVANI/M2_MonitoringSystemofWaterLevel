@@ -1,7 +1,3 @@
-#include <avr/io.h>
-#include <util/delay.h>
-
-
 void USARTInit(uint16_t ubrr_value)
 {
     
