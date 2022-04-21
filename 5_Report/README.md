@@ -100,5 +100,6 @@ S.no | HLR | Description | Status
 
 # OUTPUT
   
+![O1](https://user-images.githubusercontent.com/101012637/164508977-30f834c7-25fb-4d8f-aa39-a44815337d25.jpeg)
 
         
