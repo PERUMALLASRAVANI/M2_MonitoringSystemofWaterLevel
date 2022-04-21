@@ -47,13 +47,29 @@ As a result, we must continually manage the Water level.
  ### HOW?
       Basically, in this project sensor plays a major role.It detects the signal and transmits the output of the following code.
  ### WHY?
-     it is critical for everyone to understand the importance of water conservation, so gadgets like ours will serve as a first step towards
-     saving water and power in every household.
+     it is critical for everyone to understand the importance of water conservation, so gadgets like ours will serve as a 
+     first step towards saving water and power in every household.
  ### WHO?
      Because it's an automatic detector, there's no need for any manual intervention to return it to its original state,
      allowing anyone who needs it to utilise it.
  
  ### WHAT?
     It's a motor control project that monitors the water level in the tank and notifies the user of the level and motor state.
-        
+    
+    
+  # FLOW CHART
+  ![F1](https://user-images.githubusercontent.com/101012637/164505970-b62d7d6d-b1e9-4184-a42a-ba10e3d15d78.jpeg)
+  
+  # PIN DIAGRAM OF Atmega328
+  ![P1](https://user-images.githubusercontent.com/101012637/164506116-fa41dde3-6710-4a25-9b37-86d94d6232dd.jpeg)
+  
+  # SIMULATION 
+  ![■ SimulIDE-1 0 0-RC2 R1007 - backup sim1_ 20-04-2022 22_04_02](https://user-images.githubusercontent.com/101012637/164506301-06a27437-73cc-4689-a0bf-8e8a0d4d3918.png)
+  
+  
+ 
+
+
+  
+
         
