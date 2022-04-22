@@ -64,7 +64,12 @@ As a result, we must continually manage the Water level.
   ![P1](https://user-images.githubusercontent.com/101012637/164506116-fa41dde3-6710-4a25-9b37-86d94d6232dd.jpeg)
   
   # SIMULATION 
-  ![■ SimulIDE-1 0 0-RC2 R1007 - backup sim1_ 20-04-2022 22_04_02](https://user-images.githubusercontent.com/101012637/164506301-06a27437-73cc-4689-a0bf-8e8a0d4d3918.png)
+  ## INPUT WITH 3 LEDS
+  ![input with 3 leds](https://user-images.githubusercontent.com/101012637/164640630-064f03aa-8b68-4fab-add1-90c6b7cd3111.png)
+
+  ## INPUT WITH 2 LEDS
+  ![input with 2 leds](https://user-images.githubusercontent.com/101012637/164641676-bc535fdd-feb1-4b13-ae84-1e9862cd99aa.png)
+
   
 ## LOW LEVEL REQUIREMENTS
 
@@ -100,6 +105,6 @@ S.no | HLR | Description | Status
 
 # OUTPUT
   
-![O1](https://user-images.githubusercontent.com/101012637/164508977-30f834c7-25fb-4d8f-aa39-a44815337d25.jpeg)
+![output](https://user-images.githubusercontent.com/101012637/164642107-180d0ca7-44a5-4ee2-9609-ee286df82354.png)
 
         
